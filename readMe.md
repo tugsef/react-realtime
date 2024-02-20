@@ -1,3 +1,3 @@
 # React Colors
 
-!   [](react-color.gif)
+![](react-color.gif)
